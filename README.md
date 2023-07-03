@@ -12,8 +12,16 @@
 <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width:42px;height:42px;"></a>
 
 
-- 🌱 I’m currently learning ... ![My Skills](https://skillicons.dev/icons?i=py,js,php,git,github,css,java,bootstrap,arduino)
-- <a href="https://saas-lang.com/"><img src="https://skillicons.dev/icons?i=scss" alt="Scss" style="width:42px;height:42px;"></a>
+- 🌱 I’m currently learning ... - <a href="https://developer.mozzila.org/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:42px;height:42px;"></a>
+<a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" alt="Php" style="width:42px;height:42px;"></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" style="width:42px;height:42px;"></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:42px;height:42px;"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:42px;height:42px;"></a>
+<a href="https://w3.org/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:42px;height:42px;"></a>
+  <a href="https://saas-lang.com/"><img src="https://skillicons.dev/icons?i=scss" alt="Scss" style="width:42px;height:42px;"></a>
+<a href="https://arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" style="width:42px;height:42px;"></a>
+<a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" style="width:42px;height:42px;"></a>
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - i'm using <p>
