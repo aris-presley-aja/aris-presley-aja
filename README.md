@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... ![Currently](https://skillicons.dev/icons?i=swift,js,vuejs,php,git,github,css,bootstrap)
+- 🔭 I’m currently working on ... ![Currently](https://skillicons.dev/icons?i=swift,js,react,vuejs,php,git,github,css,bootstrap)
 - 🌱 I’m currently learning ... ![My Skills](https://skillicons.dev/icons?i=py,js,php,git,github,css,java,bootstrap,arduino)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
