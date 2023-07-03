@@ -6,7 +6,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+- ![](https://komarev.com/ghpvc/?aris-presley-aja=aris-presley-aja&color=green)
 <!--
 **aris-presley-aja/aris-presley-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
