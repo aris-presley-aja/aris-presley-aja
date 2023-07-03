@@ -21,6 +21,7 @@
   <a href="https://saas-lang.com/"><img src="https://skillicons.dev/icons?i=scss" alt="Scss" style="width:42px;height:42px;"></a>
 <a href="https://arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" style="width:42px;height:42px;"></a>
 <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" style="width:42px;height:42px;"></a>
+<a href="https://oracle.com/"><img src="https://skillicons.dev/icons?i=java" alt="java" style="width:42px;height:42px;"></a>
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
