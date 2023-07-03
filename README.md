@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... ![Currently](https://skillicons.dev/icons?i=swift,js,reactjs,vuejs,php,git,github,css,bootstrap)
+- 🔭 I’m currently working on ... ![Currently](https://skillicons.dev/icons?i=swift,js,reactjs,vuejs,php,git,github,css,bootstrap,mysql)
 - 🌱 I’m currently learning ... ![My Skills](https://skillicons.dev/icons?i=py,js,php,git,github,css,java,bootstrap,arduino)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- i'm using <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> text editor
 
 - 🏔. Hobby 1 (Hiking)
 📚. Hobby 2 (Reading)
@@ -11,7 +12,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-- ![](https://komarev.com/ghpvc/?aris-presley-aja=aris-presley-aja&color=green)
+- ![](https://komarev.com/ghpvc/?username=aris-presley-aja&color=green)
 <!--
 **aris-presley-aja/aris-presley-aja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
