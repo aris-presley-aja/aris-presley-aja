@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... ![Currently]
-
-<a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" style="width:42px;height:42px;"></a>
+- 🔭 I’m currently working on ... !<a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" style="width:42px;height:42px;"></a>
 <a href="https://developer.mozzila.org/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:42px;height:42px;"></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="ReactJs" style="width:42px;height:42px;"></a>
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vuejs" alt="VueJs" style="width:42px;height:42px;"></a>
