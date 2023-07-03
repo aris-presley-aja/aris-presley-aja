@@ -1,5 +1,19 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... ![Currently](https://skillicons.dev/icons?i=swift,js,react,vuejs,php,git,github,css,bootstrap,mongodb,mysql)
+- 🔭 I’m currently working on ... ![Currently]
+
+<a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" style="width:42px;height:42px;"></a>
+<a href="https://developer.mozzila.org/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:42px;height:42px;"></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="ReactJs" style="width:42px;height:42px;"></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vuejs" alt="VueJs" style="width:42px;height:42px;"></a>
+<a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" alt="Php" style="width:42px;height:42px;"></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:42px;height:42px;"></a>
+<a href="https://githun.com/"><img src="https://skillicons.dev/icons?i=react" alt="GitHub" style="width:42px;height:42px;"></a>
+<a href="https://w3.org/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:42px;height:42px;"></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:42px;height:42px;"></a>
+<a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDb" style="width:42px;height:42px;"></a>
+<a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width:42px;height:42px;"></a>
+
+
 - 🌱 I’m currently learning ... ![My Skills](https://skillicons.dev/icons?i=py,js,php,git,github,css,java,bootstrap,arduino)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
