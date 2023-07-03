@@ -5,7 +5,7 @@
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vuejs" alt="VueJs" style="width:42px;height:42px;"></a>
 <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" alt="Php" style="width:42px;height:42px;"></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:42px;height:42px;"></a>
-<a href="https://githun.com/"><img src="https://skillicons.dev/icons?i=react" alt="GitHub" style="width:42px;height:42px;"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:42px;height:42px;"></a>
 <a href="https://w3.org/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:42px;height:42px;"></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:42px;height:42px;"></a>
 <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDb" style="width:42px;height:42px;"></a>
@@ -13,6 +13,7 @@
 
 
 - 🌱 I’m currently learning ... ![My Skills](https://skillicons.dev/icons?i=py,js,php,git,github,css,java,bootstrap,arduino)
+- <a href="https://saas-lang.com/"><img src="https://skillicons.dev/icons?i=scss" alt="Scss" style="width:42px;height:42px;"></a>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - i'm using <p>
