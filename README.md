@@ -41,7 +41,7 @@
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- i'm using <p>
+- i'm using text editor <p>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -50,7 +50,7 @@
 
 </p>
 
-   text editor
+   
 ### My Hobby
 - 🏔. Hobby 1 (Hiking)
 📚. Hobby 2 (Reading)
