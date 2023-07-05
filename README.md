@@ -1,5 +1,9 @@
-### Greetings Strangers 
+<div align="center">
+
+ ###<font colors="red">Greetings</font> Strangers 
 <img align="center" src="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/08/11/1604683050.jpeg" alt="JavaScript" style="width:85%;height:auto;">
+<p><strong>We're having a really bad day.</strong></p>
+</div>
 - 🔭 I’m currently working on ... !<a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" style="width:42px;height:42px;"></a>
 <a href="https://developer.mozzila.org/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:42px;height:42px;"></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="ReactJs" style="width:42px;height:42px;"></a>
