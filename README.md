@@ -10,7 +10,15 @@
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:42px;height:42px;"></a>
 <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDb" style="width:42px;height:42px;"></a>
 <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width:42px;height:42px;"></a>
+<a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" style="width:42px;height:42px;"></a>
+<a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=cmake" alt="C Make" style="width:42px;height:42px;"></a>
 
+🌱 I’m Reading the flow using ...
+<a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="width:42px;height:42px;"></a>
+
+🌱 I’m Compile and host the App using ...
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="width:42px;height:42px;"></a>	
+<a href="https://netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" style="width:42px;height:42px;"></a>	
 
 - 🌱 I’m currently learning ... - <a href="https://developer.mozzila.org/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:42px;height:42px;"></a>
 <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" alt="Php" style="width:42px;height:42px;"></a>
@@ -18,6 +26,7 @@
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:42px;height:42px;"></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:42px;height:42px;"></a>
 <a href="https://w3.org/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:42px;height:42px;"></a>
+<a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="NuxtJs" style="width:42px;height:42px;"></a>
   <a href="https://saas-lang.com/"><img src="https://skillicons.dev/icons?i=scss" alt="Scss" style="width:42px;height:42px;"></a>
 <a href="https://arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" style="width:42px;height:42px;"></a>
 <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" style="width:42px;height:42px;"></a>
