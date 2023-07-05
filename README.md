@@ -47,26 +47,28 @@
   <tr style="border:0px solid black; width:auto;>
     <td valign="top"><a href="https://developer.apple.com"><img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" alt="X-code" style="width:125px;height:42px;"></a>
 </td>
+
+  <tr style="border:0px solid black; width:auto;>
+    <td valign="top"><a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
+</td>
+
   <tr style="border:0px solid black; width:auto;>
     <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
     </td>
    
 
 </td>
- <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
 
-
-</td>
- <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://netbeans.apache.org"><img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Netbeans" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
-
-</td>
  <tr style="border:0px solid black; width:auto;>
     <td valign="top"><a href="https://www.eclipse.org"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
 
     
   </tr>
+ <tr style="border:0px solid black; width:auto;>
+    <td valign="top"><a href="https://netbeans.apache.org"><img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Netbeans" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
+
+</td>
+
 </table>
 
    
