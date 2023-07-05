@@ -9,7 +9,9 @@
 <a href="https://w3.org/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:42px;height:42px;"></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:42px;height:42px;"></a>
 <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDb" style="width:42px;height:42px;"></a>
+
 <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width:42px;height:42px;"></a>
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotliin" style="width:42px;height:42px;"></a>
 <a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" style="width:42px;height:42px;"></a>
 <a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=cmake" alt="C Make" style="width:42px;height:42px;"></a>
 
