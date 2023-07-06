@@ -49,7 +49,7 @@
 </td>
 
   <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="width:105px;height:42px; border:0px solid black; width:auto;"></a>
+    <td valign="top"><a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" style="width:80px;height:42px; border:0px solid black; width:auto;"></a>
 </td>
 
   <tr style="border:0px solid black; width:auto;>
