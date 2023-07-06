@@ -53,7 +53,7 @@
 </td>
 
   <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
+    <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="width:110px;height:42px; border:0px solid black; width:auto;"></a>
     </td>
    
 
