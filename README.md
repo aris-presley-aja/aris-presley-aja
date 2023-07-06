@@ -45,7 +45,7 @@
 <table style="border:0px solid black; width:auto;">
     <tr style="border:0px solid black; width:auto;">
   <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://developer.apple.com"><img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" alt="X-code" style="width:125px;height:42px;"></a>
+    <td valign="top"><a href="https://developer.apple.com"><img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" alt="X-code" style="width:100px;height:42px;"></a>
 </td>
 
   <tr style="border:0px solid black; width:auto;>
