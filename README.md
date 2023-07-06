@@ -53,19 +53,19 @@
 </td>
 
   <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="width:110px;height:42px; border:0px solid black; width:auto;"></a>
+    <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="width:80px;height:42px; border:0px solid black; width:auto;"></a>
     </td>
    
 
 </td>
 
  <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://www.eclipse.org"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="width:105px;height:42px; border:0px solid black; width:auto;"></a>
+    <td valign="top"><a href="https://www.eclipse.org"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="width:80px;height:42px; border:0px solid black; width:auto;"></a>
 
     
   </tr>
  <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://netbeans.apache.org"><img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Netbeans" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
+    <td valign="top"><a href="https://netbeans.apache.org"><img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Netbeans" style="width:100px;height:42px; border:0px solid black; width:auto;"></a>
 
 </td>
 
