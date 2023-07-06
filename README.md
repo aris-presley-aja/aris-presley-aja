@@ -60,7 +60,7 @@
 </td>
 
  <tr style="border:0px solid black; width:auto;>
-    <td valign="top"><a href="https://www.eclipse.org"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="width:125px;height:42px; border:0px solid black; width:auto;"></a>
+    <td valign="top"><a href="https://www.eclipse.org"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="width:105px;height:42px; border:0px solid black; width:auto;"></a>
 
     
   </tr>
